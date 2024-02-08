@@ -22,6 +22,5 @@ Sentry.
 
 ## Netlify Edge Functions (Deno wrapper)
 
-- Without Sentry:
-  [Edge Function without Sentry](https://serverless-monitoring.netlify.app/edge-functions/default)
+- [Edge Function without Sentry](https://serverless-monitoring.netlify.app/edge-functions/default)
 - [Edge Function with Sentry](https://serverless-monitoring.netlify.app/edge-functions/with-sentry)
