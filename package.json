@@ -1,0 +1,11 @@
+{
+  "name": "serverless-monitoring-netlify",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {},
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@sentry/node": "^7.100.1"
+  }
+}
