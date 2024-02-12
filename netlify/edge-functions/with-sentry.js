@@ -1,6 +1,6 @@
 // https://docs.sentry.io/platforms/javascript/guides/deno/
 // import * as Sentry from "https://deno.land/x/sentry/index.mjs";
-import * as Sentry from "npm:@sentry/node";
+import * as Sentry from "@sentry/node";
 
 // currently can't use profiling because Netlify Edge does not support --allow-ffi in Deno
 // https://docs.deno.com/runtime/manual/basics/permissions
